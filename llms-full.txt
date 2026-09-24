@@ -1,0 +1,94 @@
+# IslaTechOps - Full Context
+
+> Modern tech studio in Puerto Rico. Websites, branding, and automation for businesses ready to grow. Engineering-backed, fast execution.
+
+Last updated: 2026-06-11. Short version: https://islatechops.com/llms.txt
+
+## Company Overview
+
+IslaTechOps is a modern tech studio based in Puerto Rico. The studio combines design, engineering, and automation to help small businesses, creators, and entrepreneurs launch and grow their online presence. IslaTechOps operates as a lean studio with senior engineering standards, delivering projects fast without bloated timelines or unnecessary complexity.
+
+The studio is fully bilingual (English and Spanish) and designed specifically for the Puerto Rican and US market.
+
+## Founding & Background
+
+IslaTechOps was founded with advanced engineering training from the University of Puerto Rico at Mayaguez. The studio brings production-level technical expertise to small business clients who typically only have access to template-based solutions or expensive agencies.
+
+## Services in Detail
+
+### 1. Modern Websites
+Fast, mobile-ready websites built to turn visitors into customers. IslaTechOps builds landing pages, business websites, and full web applications using modern frameworks (SvelteKit, Tailwind CSS). All sites are bilingual-ready, responsive, and optimized for performance.
+
+### 2. Branding & Visual Identity
+Logo direction, color systems, typography, and complete visual identity packages. The goal is to make businesses look established and professional from day one, with a consistent visual language across all touchpoints.
+
+### 3. Portfolio & CV Websites
+Personal websites and digital resumes for professionals, creators, and entrepreneurs. Designed to showcase work, experience, and skills with clarity and confidence.
+
+### 4. AI Automation & WhatsApp Bots
+WhatsApp Business API bots, automated workflows, and AI-powered tools for businesses. These automations handle repetitive tasks (customer inquiries, appointment scheduling, order notifications) so business owners can focus on growth.
+
+### 5. APIs & Integrations
+Simple, clean REST APIs and backend services. IslaTechOps connects forms, payment systems, internal tools, and third-party services. Built with Node.js and Golang for reliability and performance.
+
+### 6. Technical Consulting
+Practical consulting for businesses evaluating technology investments. Architecture advice, system reviews, tool selection guidance, and strategic direction from engineers with production experience.
+
+## Target Audience
+
+### Small Businesses
+Local businesses in Puerto Rico and the US that need a modern online presence, brand identity, social media campaigns, or business automation. Typical clients include restaurants, retail shops, professional services, and local service providers.
+
+### Creators & Entrepreneurs
+Individual professionals, freelancers, and entrepreneurs who need portfolio websites, personal branding, campaign design, or AI-powered tools to scale their work.
+
+### Puerto Rico Market
+Businesses specifically serving the Puerto Rican market that need bilingual websites (EN/ES), culturally-aware branding, and social media strategies for the island market.
+
+## Differentiators
+
+- Engineering-backed: Advanced technical training, not just design templates.
+- Fast execution: No bloated timelines. Projects ship in focused cycles.
+- Bilingual: Fully operational in English and Spanish.
+- Practical: Focus on solutions that actually work for the business, not over-engineered complexity.
+- Local: Built for Puerto Rico's culture and market realities.
+- Lean: Small studio, senior standards, direct communication.
+
+## Frequently Asked Questions
+
+**What does IslaTechOps do?**
+We build websites, branding, AI automations, WhatsApp bots, and APIs for small businesses, creators, and entrepreneurs. We also offer technical consulting.
+
+**Where is IslaTechOps located?**
+We are based in Puerto Rico and work with clients across the island, the United States, and Latin America.
+
+**Do you work in English and Spanish?**
+Yes. The studio is fully bilingual. We build bilingual websites and communicate in whichever language the client prefers.
+
+**How fast can you deliver?**
+We work in focused cycles with no bloated timelines. Simple sites launch in days to weeks, not months. Clients get a realistic timeline before work starts.
+
+**Do you build WhatsApp bots and AI tools?**
+Yes. We build WhatsApp bots, automated workflows, and AI tools that answer customers faster and handle repetitive tasks automatically.
+
+**How do we get started?**
+Email support@islatechops.com. Tell us what you need, and we will reply with a realistic plan and timeline.
+
+## Process
+
+1. Talk: We listen to what you need, understand your goals, and scope a realistic plan. No jargon.
+2. Design: We map out the architecture and user flow before writing code. The client approves the direction first.
+3. Build: Focused sprints, constant updates, working software at every step.
+4. Launch: We deploy, hand off cleanly, and stay available to iterate as the business grows.
+
+## Contact Information
+
+- Email: support@islatechops.com
+- Website: https://islatechops.com
+- Instagram: https://instagram.com/islatechops
+- Location: Puerto Rico (serving PR, US, and Latin America)
+- Languages: English, Spanish
+
+## Technology
+
+The studio works with modern web technologies including SvelteKit, Svelte 5, Tailwind CSS 4, Node.js, Golang, REST APIs, WhatsApp Business API, and various AI integration tools. Infrastructure is deployed using modern CI/CD practices.

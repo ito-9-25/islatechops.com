@@ -1,0 +1,17 @@
+{
+  "name": "IslaTechOps",
+  "short_name": "IslaTechOps",
+  "description": "Modern tech studio in Puerto Rico. Websites, branding, and automation for businesses ready to grow.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#0B1F33",
+  "theme_color": "#0B1F33",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/logo-icon.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ]
+}
