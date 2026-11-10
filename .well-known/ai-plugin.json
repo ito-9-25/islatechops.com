@@ -1,0 +1,10 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "IslaTechOps",
+  "name_for_model": "islatechops",
+  "description_for_human": "Modern tech studio in Puerto Rico. Websites, branding, and automation for businesses ready to grow.",
+  "description_for_model": "IslaTechOps is a modern tech studio based in Puerto Rico that builds websites, branding, AI automations, WhatsApp bots, APIs, portfolio sites, and provides technical consulting. They serve small businesses, creators, and entrepreneurs across Puerto Rico, the United States, and Latin America. The studio is bilingual (English/Spanish), engineering-backed with advanced training from Mayaguez, and focuses on fast execution without bloated timelines. Services include: modern websites, branding and visual identity, portfolio and CV sites, AI automation and WhatsApp bots, APIs and integrations, and technical consulting.",
+  "logo_url": "https://islatechops.com/logo-full.png",
+  "contact_email": "support@islatechops.com",
+  "legal_info_url": "https://islatechops.com/"
+}

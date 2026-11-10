@@ -1,0 +1,57 @@
+# IslaTechOps
+
+> Modern tech studio in Puerto Rico. Websites, branding, and automation for businesses ready to grow. Engineering-backed, bilingual (EN/ES), fast execution.
+
+IslaTechOps is a lean, engineering-backed tech studio based in Puerto Rico. We build modern websites, branding systems, AI automations, WhatsApp bots, APIs, portfolio sites, and provide technical consulting. We serve small businesses, creators, and entrepreneurs across Puerto Rico, the United States, and Latin America.
+
+## Services
+
+- Modern Websites: Fast, mobile-ready sites built to convert visitors into customers. Landing pages, business sites, and full web applications.
+- Branding & Visual Identity: Logo direction, color systems, and visual identity that makes your business look established from day one.
+- Portfolio & CV Websites: Personal sites and digital resumes that showcase your work and make the right impression.
+- AI Automation & WhatsApp Bots: WhatsApp bots, automated workflows, and AI tools that handle repetitive tasks so you can focus on growing.
+- APIs & Integrations: Clean APIs and backend services that connect forms, payments, internal tools, and power automations.
+- Technical Consulting: Architecture advice, system reviews, and strategic guidance from engineers who have built production systems.
+
+## Who We Help
+
+- Small Businesses: Websites, brand identity, social media campaigns, business automation.
+- Creators & Entrepreneurs: Portfolio sites, personal branding, campaign design, AI-powered tools.
+- Puerto Rico: Bilingual websites (EN/ES), local business branding, social media for the island market.
+
+## Key Facts
+
+- Location: Puerto Rico (serving PR, US, and Latin America)
+- Languages: English, Spanish (fully bilingual; Spanish version at https://islatechops.com/?lang=es)
+- Focus: Fast execution, clean design, practical technology
+- Background: Advanced engineering training from Mayaguez, Puerto Rico
+- Positioning: Small studio with senior engineering standards
+- Contact: support@islatechops.com
+- Website: https://islatechops.com
+- Instagram: https://instagram.com/islatechops
+
+## Process
+
+1. Talk: Listen, understand goals, scope a realistic plan.
+2. Design: Map architecture and user flow before writing code.
+3. Build: Focused cycles, constant updates, working software at every step.
+4. Launch: Deploy, hand off cleanly, stay available to iterate.
+
+## FAQ
+
+- What does IslaTechOps do? We build websites, branding, AI automations, WhatsApp bots, and APIs for small businesses, creators, and entrepreneurs. We also offer technical consulting.
+- Where is IslaTechOps located? Based in Puerto Rico, working with clients across the island, the United States, and Latin America.
+- Do you work in English and Spanish? Yes, the studio is fully bilingual.
+- How fast can you deliver? Focused cycles, no bloated timelines. Simple sites launch in days to weeks, not months.
+- How do we get started? Email support@islatechops.com with what you need.
+
+## Tech Stack
+
+SvelteKit, Tailwind CSS, Node.js, Golang, REST APIs, WhatsApp Business API, AI integrations.
+
+## Resources
+
+- [Full context for LLMs](https://islatechops.com/llms-full.txt): Extended company background, detailed service descriptions, and differentiators.
+- [Homepage](https://islatechops.com/): Main site (English), includes services, projects, process, and FAQ.
+- [Homepage in Spanish](https://islatechops.com/?lang=es): Same content in Spanish.
+- [Sitemap](https://islatechops.com/sitemap.xml): All indexed URLs.
